@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109191738726",
+    "project_id": "shipment-tracking-ec5db",
+    "storage_bucket": "shipment-tracking-ec5db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109191738726:android:25bfc5d7650075efab04a7",
+        "android_client_info": {
+          "package_name": "com.example.shipment_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu7qd-TFwC6q7TeoAAyndRTkcjq2gqykI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
